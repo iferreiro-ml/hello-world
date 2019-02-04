@@ -1,2 +1,2 @@
 # hello-world
-Where the magic began
+This is where the magic begins
